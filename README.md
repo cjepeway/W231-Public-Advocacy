@@ -100,7 +100,9 @@ And I might even fix it.
 <a name="fn1">*</a>: <sub>Thanks to Sean Underwood for passing this observational gem along to me[^](fn1-cite)</sub>.
 
 <hr>
-Oh, hey, if any fellow MIDS student makes it his far, I really think you should take W231.
+
+Oh, hey, if any fellow MIDS student makes it his far, I really think you should
+take [W231](https://www.ischool.berkeley.edu/courses/datasci/231).
 You might think "eh, I can take it via MIDS4Life, I really want that ML @ scale class, that's juicy."
 You'd be wrong, though.
 _Ethics_ is *way* juicier.
