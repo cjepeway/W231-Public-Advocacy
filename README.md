@@ -12,7 +12,7 @@ project I've been working on for lo these past few weeks.
 
 First, our instructors.  They're phenomenal:
 * [Anna Lauren Hoffman](https://ischool.uw.edu/people/faculty/profile/alho) (now at the University of Washington), who really had us going gangbusters when she guested a class
-* [Deirdre Mulligan](https://www.ischool.berkeley.edu/people/deirdre-mulligan), whose scary-smart, high expectations of her students, and ability to tweeze deep thought out of busy distance learners are all much appreciated
+* [Deirdre Mulligan](https://www.ischool.berkeley.edu/people/deirdre-mulligan), whose scary-smart, high expectations of her students and ability to tweeze deep thought out of busy distance learners are all much appreciated
 * [Nathan Good](https://www.ischool.berkeley.edu/people/nathan-good), his topic mastery and laidback herding of cats make a 9:30PM EST class start nearly a joy
 
 Really, though, the topic is something else.  It's the ethics of data: privacy, governance, furthering human endeavor using it. And it's unlike any other MIDS class, perhaps save RDADA.
@@ -70,7 +70,7 @@ private queues were out there
 for anyone to tie back to their public face.
 
 Now, Narayanan and Shmatikov
-were responsible, mind you: no public disclosures of whether I watch Bambi movies in the wee hours of the night, eg.
+acted responsibly, mind you: no public disclosures of whether I watch Bambi movies in the wee hours of the night, eg.
 But their paper did lead to the shutdown of further Netflix Prizes,
 and it kinda sounded a death knell for "collaborative filtering."
 
