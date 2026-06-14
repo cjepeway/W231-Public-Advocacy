@@ -11,7 +11,7 @@ In particular, y'all need to know about _Ethics_ and the
 project I've been working on for lo these past few weeks.
 
 First, our instructors.  They're phenomenal:
-* [Anna Laruen Hoffman](https://datascience.berkeley.edu/about/about-our-faculty/profile/anna-lauren-hoffman/), who really had us going gangbusters when she guested a class
+* [Anna Lauren Hoffman](https://datascience.berkeley.edu/about/about-our-faculty/profile/anna-lauren-hoffman/), who really had us going gangbusters when she guested a class
 * [Deirdre Mulligan](https://www.ischool.berkeley.edu/people/deirdre-mulligan), whose scary-smart, high expectations of her students, and ability to tweeze deep thought out of busy distance learners are all much appreciated
 * [Nathan Good](http://www.goodresearch.com/index.html), his topic mastery and laidback herding of cats make a 9:30PM EST class start nearly a joy
 
